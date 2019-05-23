@@ -2,4 +2,4 @@ Just a new file!
 
 Adding another project, the second one.
 
-Working on the third project but not already done.
+Done the third project and add they.
